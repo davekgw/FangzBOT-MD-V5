@@ -60,7 +60,7 @@ global.nameown = 'Fangz Ganz' //Nama mu
 /*⫘⫘⫘⫘ STAFF ⫘⫘⫘⫘⫘*/
 global.owner = [
   ['6288215689772'], //Owner1
-  ['6288215689772'], //Owner2
+  ['6285335877178'], //Owner2
   ['6288215689772'], //Owner3
   ['6288215689772', 'FANGZ ! 🥶', true] //Ini buat kamu!
   // [number, dia creator/owner?, dia developer?]
