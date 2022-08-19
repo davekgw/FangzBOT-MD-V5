@@ -72,9 +72,9 @@
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Owner Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
-- Bot Name [Here](https://github.com/kannachann/kannabot-md/blob/multi-device/config.js#L1)
+- Owner Number [Here](https://github.com/Fangzbotz2007/FangzBOT-MD-V5/blob/master/config.js)
+- Owner Name [Here](https://github.com/Fangzbotz2007/FangzBOT-MD-V5/blob/master/config.js)
+- Bot Name [Here](https://github.com/Fangzbotz2007/FangzBOT-MD-V5/blob/master/config.js)
 ---------
 
 ## ```Heroku Buildpack```
@@ -174,6 +174,12 @@ npm update
 
 ```bash
 node .
+
+```
+## Run With Monggodb 📛
+```bash
+
+node . -- db 'mongodb+srv:FANGZXD-DPN:FANGZXD-DPN@fangzxd-dpn.csyoszc.mongodb.net/test'
 ```
 
 ---------
@@ -198,6 +204,9 @@ Set prefix
 
 ## `--server`
 * Used for [heroku](https://heroku.com/) or scan through website
+
+## `--db`
+*  Used for [heroku](https://heroku.com/) use pm2 And Database Save
 
 ## `--restrict`
 * Enables restricted plugins (which can lead your number to be **banned** if used too often)
@@ -256,9 +265,10 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ## ```Thanks to ✨```
 * [`Allah SWT`](https://github.com/Fangzbotz2007)
 * [`My parents`](https://github.com/Fangzbotz2007)
-* [`All Friends`](https://github.com/Fangzbotz2007)
-* [`All Contributors`](https://github.com/Fangzbotz2007)
-* [`All Creator Bot`](https://github.com/Fangzbotz2007)
+* [`My Friends`](https://github.com/DenpaDev)
+* [`All Friends`]
+* [`All Contributors`]
+* [`All Creator Bot`]
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
