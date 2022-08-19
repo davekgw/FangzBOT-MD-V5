@@ -1,5 +1,4 @@
 // MADE BY BOCHILGAMING
-// RECODE BY KANNACHANN
 
 import { promises } from 'fs'
 import { join } from 'path'
@@ -557,9 +556,9 @@ const listMessage = {
     throw e
   }
 }
-handler.help = ['menu', 'help', '?']
+handler.help = ['menu', 'help', 'list', '?']
 handler.tags = ['main']
-handler.command = /^(menu|help|\?)$/i
+handler.command = /^(menu|help|list|\?)$/i
 
 handler.register = true
 handler.exp = 3
