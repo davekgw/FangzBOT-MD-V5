@@ -1,6 +1,6 @@
 {
     "name": "FANGZ-BOT",
-    "version": "3.00.1",
+    "version": "3.00.01",
     "description": "RPG WhatsApp BOT",
     "main": "index.js",
     "type": "module",
