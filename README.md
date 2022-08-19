@@ -266,9 +266,9 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Allah SWT`](https://github.com/Fangzbotz2007)
 * [`My parents`](https://github.com/Fangzbotz2007)
 * [`My Friends`](https://github.com/DenpaDev)
-* [`All Friends`]
-* [`All Contributors`]
-* [`All Creator Bot`]
+* [`All Friends`](https://github.com)
+* [`All Contributors`](https://github.com)
+* [`All Creator Bot`](https://github.com)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
