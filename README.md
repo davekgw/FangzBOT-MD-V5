@@ -108,6 +108,17 @@ $ yarn install
 ```
 ---------
 
+## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
+```
+* Create account and database in mongodb atlas [`watch here`](https://youtu.be/rPqRyYJmx2g)
+* when you already have a database, you just need to take mongourl
+* Put mongourl in Procfile `worker: node . --db 'mongourl'`
+* Example `worker: node . -- db 'Your Mongo URI'`
+* Example `worker: node . -- db ''`
+```
+
+----------
+
 ## TERMUX WITH UBUNTU
 
 ```bash
