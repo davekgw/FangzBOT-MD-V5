@@ -206,7 +206,7 @@ Set prefix
 * Used for [heroku](https://heroku.com/) or scan through website
 
 ## `--db`
-*  Used for [heroku](https://heroku.com/) use pm2 And Database Save
+*  Used for [heroku](https://heroku.com/) use pm2 And Database Save From MongoDB
 
 ## `--restrict`
 * Enables restricted plugins (which can lead your number to be **banned** if used too often)
